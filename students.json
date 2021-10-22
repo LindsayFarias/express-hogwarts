@@ -1,0 +1,46 @@
+[
+    {
+        "studentId": 1,
+        "name": "Harry Potter",
+        "details": [
+            {
+                "fullName": "Harry James Potter",
+                "house": "Gryffindor",
+                "hobbies": [
+                    "quidditch"
+                ],
+                "homeTown": "Godric's Hollow"
+            }
+        ]
+    },
+    {
+        "studentId": 2,
+        "name": "Hermoine Granger",
+        "details": [
+            {
+                "fullName": "Hermoine Jean Granger",
+                "house": "Gryffindor",
+                "hobbies": [
+                    "reading",
+                    "studying"
+                ],
+                "homeTown": "Hampstead"
+            }
+        ]
+    },
+    {
+        "studentId": 3,
+        "name": "Ronald Weasly",
+        "details": [
+            {
+                "fullName": "Ronald Bilius Weasly",
+                "house": "Gryffindor",
+                "hobbies": [
+                    "eating",
+                    "playing Wizard's chess"
+                ],
+                "homeTown": "The Burrow"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "studentId": 1,
+        "grades":
+            {
+                "potions": 70,
+                "defense-against-the-dark-arts": 95,
+                "transfiguration": 88
+    
+            }
+    
+    },
+    {
+        "studentId": 2,
+        "grades":
+            {
+                "potions": 100,
+                "defense-against-the-dark-arts": 100,
+                "transfiguration": 100
+            }
+    
+    },
+    {
+        "studentId": 3,
+        "grades": 
+            {
+                "potions": 70,
+                "defense-against-the-dark-arts": 80,
+                "transfiguration": 80
+            }
+    
+    }
+]
